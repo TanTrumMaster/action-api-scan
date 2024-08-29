@@ -25,5 +25,5 @@ jobs:
       uses: ./
       id: action-api-scan
       with:
-        target: 'https://github.com/Siddhant02082002/backend-testing2.0'
+        target: 'https://backend-testing2-0.onrender.com'
         allow_issue_writing: false
